@@ -4,6 +4,7 @@ WORKDIR /app
 
 ADD . /app
 
+USER root
 RUN npm install
 
 EXPOSE 3000
