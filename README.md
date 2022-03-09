@@ -1,4 +1,4 @@
-# gitops-source-code-repo
+# gitops-source-code
 
 ## To Run the app
 
